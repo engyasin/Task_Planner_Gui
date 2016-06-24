@@ -1,0 +1,9 @@
+*.pyc
+Task.py
+qt4_temp.py
+plan_tasks.py
+lgls.ui
+helper_funcs_lgls.py
+draft_ordercore.py
+.ropeproject/
+Tables_create/.ropeproject/
