@@ -2,7 +2,7 @@
 
 an application made in pyqt , to arrange and orgnize tasks according to hardness, importance , to achive highst productivity..
 
-<img src='img.png'>
+<img src='img.PNG'>
 
 [Work in progress]
 
